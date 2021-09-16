@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+# adding config.py file
+api_keys.py
+
+API_practice.ipynb
+random_numbers.ipynb
