@@ -5,7 +5,7 @@ link to jupyter notebooks
 
 
 
-![Equator](output/Huminidy_map.png)
+![Equator](out_put/Huminidy_map.png)
 
 # Data processing
 Data sources introduction
@@ -38,10 +38,10 @@ cleaning, check
 
 1. Humidity over entire city 
 
-  ![heatmap](output/Humidity_map.png)
+  ![heatmap](out_put/Humidity_map.png)
 
 2. Hotel locations from searching by weather conditions
-  ![hotel map](output/Hotel_map.png)
+  ![hotel map](out_put/Hotel_map.png)
 
 
 
