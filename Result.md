@@ -2,7 +2,7 @@
 
 This project is an assignment hands-on practicing and demonstrating data requests from API, dataset cleaning,  manipulation, and data visualization (geospatial visualization). The analysis includes two parts,  the weather of more than 600 cities worldwide and spatial analysis of selected cities. Jupyter notebook is used for the analysis and could be referred to as below:
 
-[WeatherPy](https://github.com/KeSavanh/python-API-challenge/blob/main/starter_code/WeatherPy.ipynb)
+[WeatherPy](https://github.com/KeSavanh/python-API-challenge/blob/main/starter_code/WeatherPy.ipynb), 
 [VacationPy](https://github.com/KeSavanh/python-API-challenge/blob/main/starter_code/VacationPy.ipynb)
 
 
@@ -21,6 +21,14 @@ Correlation of the latitude, temperature, humidity, percentage of cloud, and win
 
 3. There is no significant correlation between latitude and cloudiness both from scatter plots and regression analysis. However, it could be related to temperature and humidity.
 
+### Temperature (F) vs. Latitude
+   ![emperature (F) vs. Latitude](output_data/Lat_TempMax.png)
+### Humidity (%) vs. Latitude
+   ![Humidity (%) vs. Latitude](output_data/Lat_Humidity.png)
+### Cloudiness (%) vs. Latitude
+   ![Cloudiness (%) vs. Latitude](output_data/Lat_Cloudiness.png)
+### Wind Speed (mph) vs. Latitude
+   ![Wind Speed (mph) vs. Latitude](output_data/Lat_WindSpeed.png)
 
 ### Northern Hemisphere - Temperature (F) vs. Latitude
    ![Northern Hemisphere - Temperature (F) vs. Latitude](output_data/NLat_TempMax_Reg.png)
